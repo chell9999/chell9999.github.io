@@ -10,8 +10,8 @@ permalink: /:title
 plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "Chell's Blog"
-description: "Chell's Devlog & Studylog"
+title: "Chell's Devlog & Studylog"
+description: ""
 author: "Chell Lee"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
